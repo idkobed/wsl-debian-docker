@@ -11,7 +11,7 @@ sudo apt update && sudo apt upgrade -y
 
 ---------------
 
-2. Instalar dependencias necesarias
+## 2. Instalar dependencias necesarias
 sudo apt install -y ca-certificates curl gnupg lsb-release
 
 ---------------
